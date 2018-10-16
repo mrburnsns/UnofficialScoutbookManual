@@ -5,7 +5,7 @@ This is a project designed to produce documentation for the Scoutbook website ( 
 
 It is not officially supported by Scoutbook, and I have no relation to Scoutbook other than as a user.  Any trademarks, designs or images are the property of Scoutbook.
 
-The manual may be reproduced, distributed, modified by any Scouting organization, with credit under the GNU 3.0 license. 
+Permission is granted to any Scouting organization to reproduce or modify this document for non-commercial purposes with attribution to the author.  For all other uses, please contact the author.  
 
 Any suggestions, comments or revisions are welcome.
 
